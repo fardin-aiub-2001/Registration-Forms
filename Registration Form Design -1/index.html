@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="script.js" defer></script>
+    <link rel="stylesheet" href="style.css">
+    <title>Student Registration form</title>
+</head>
+<body id="body">
+    
+    <form id="myform">
+        <h1>Student Registration Form</h1><br>
+        <label for="name">Name</label>
+        <input type="text" id="name" placeholder="Enter your name"><br>
+        <span id="nameerr"></span><br>
+
+        <label for="stuid">Student Id</label>
+        <input type="text" id="stuid" placeholder="Enter your id"><br>
+        <span id="iderr"></span><br>
+
+        <label for="cgpa">Cgpa</label>
+        <input type="number" id="cgpa"><br>
+        <span id="cgpaerr"></span><br>
+
+        <label for="gender">Gender</label>
+        <input type="radio" name="gender" id="male" value="male">Male
+        <input type="radio" name="gender" id="female" value="female">Female<br>
+        <span id="gendererr"></span><br>
+
+        <label for="dob" >Date of Birth</label>
+        <input type="date" id="dob"><br>
+        <span id="doberr"></span><br>
+
+        <label for="dept">Department</label>
+        <select id="dept" name="dept">
+            <option value="cse">CSE</option>
+            <option value="eee">EEE</option>
+            <option value="bba">BBA</option>
+            <option value="english">ENGLISH</option>
+        </select><br>
+        <span id="depterr"></span><br>
+        <label for="favsub">Favourite Subject</label><br>
+        
+
+        
+        <div>
+        <button id="submit" >Submit</button>
+        <button id="reset" type="reset" value="reset">Reset</button><br>
+        </div>
+
+        
+    </form>
+    
+</body>
+</html>
