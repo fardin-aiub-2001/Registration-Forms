@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css">
+        <script src="script.js" defer></script>
+    </head>
+    <body>
+        <p><h1>Registration Form</h1></p>
+        <div>
+        <form onsubmit="return validation()">
+
+            <label for="fn">First Name :</label><br>
+            <input type="text" id="fn" placeholder="Enter Your First Name"><br>
+            <span id="fner"></span><br>
+
+            <label for="ln">Last Name :</label><br>
+            <input type="text" id="ln" placeholder="Enter Your Last Name"><br>
+            <span id="lner"></span><br>
+
+            <label for="gen">Gender</label>
+            <input type="radio" name="gen" id="male" value="Male">Male
+            <input type="radio" name="gen" id="female" value="Female">Female
+            <br>
+            <span id="gerr"></span><br>
+
+            <label for="phum">Phone Number</label><br>
+            <input type="text" id="pnum" value="+880"><br>
+            <span id="pnumerr"></span><br>
+
+            <label for="email">Email</label><br>
+            <input type="email" id="email" placeholder="someone@exm.exm"><br>
+            <span id="eerr"></span><br>
+
+            <label for="dob">Date Of Birth</label><br>
+            <input type="date" id="dob"><br>
+            <span id="doberr"></span><br>
+
+            <label for="sub">Languages</label><br>
+            <input type="checkbox" id="csh" value="c#">c#
+            <input type="checkbox" id="cplain" value="c">C
+            <input type="checkbox" id="java" value="java">java
+            <input type="checkbox" id="html" value="html">HTML
+            <br>
+            <span id="suberr"></span><br>
+
+            <label for="pass">Password</label><br>
+            <input type="password" id="pass"><br>
+            <span id="passerr"></span><br>
+
+            <label for="conpass">Confirm Password</label><br>
+            <input type="password" id="conpass"><br>
+            <span id="conpasserr"></span><br>
+            <div id="d1">
+                <input type="submit" id="submit" value="Submit">
+            </div>
+        </form>
+        </div>
+    </body>
+</html>

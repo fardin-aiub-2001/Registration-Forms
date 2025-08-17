@@ -1,0 +1,55 @@
+span{
+    color:red;
+    font-weight: bold;
+}
+
+body{
+    background-color:aqua;
+    color:rgb(1, 26, 60);
+    font-size: 20px;
+}
+
+h1{
+    color:black;
+    font-weight: bold;
+    text-align: center;
+
+}
+div{
+    display:flex;
+    justify-content: center;
+}
+form{
+    height:700px;
+    width:500px;
+    border:2px solid rgb(129, 129, 230);
+    background-color: #E0FFFF;
+    padding:20px;
+    border-radius:15px;
+}
+
+
+#fn,
+#ln,
+#pnum,
+#email,
+#pass,
+#conpass,
+#dob{
+    height:25px;
+    width:100%;
+    position: relative;
+    border-radius: 10px;
+}
+#submit{
+    height:46px;
+    width:100px;
+    color:white;
+    background-color: darkcyan;
+    font-size: 20px;
+    border-radius: 15px;
+
+}
+#submit:hover{
+    background-color: rgb(4, 4, 79);
+}
