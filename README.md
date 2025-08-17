@@ -1,5 +1,5 @@
 Registration Form 1:
-<img width="724" height="793" alt="Screenshot 2025-08-09 152840" src="https://github.com/user-attachments/assets/48b11c49-4fe1-4f5e-a028-ac0f719870ef" />
+<img width="724" height="793" alt="Screenshot 2025-08-09 152840" src="https://github.com/user-attachments/assets/48b11c49-4fe1-4f5e-a028-ac0f719870ef" /><img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/3faf2e9f-2c99-490c-99b0-f0a09084844c" />
 Registration Form 2:
 <img width="1919" height="1079" alt="Screenshot 2025-08-16 225314" src="https://github.com/user-attachments/assets/4874573a-00c9-454a-8030-7039946be3e0" />
 Converted to upper case:
