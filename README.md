@@ -1,6 +1,13 @@
 Registration Form 1:
-<img width="724" height="793" alt="Screenshot 2025-08-09 152840" src="https://github.com/user-attachments/assets/48b11c49-4fe1-4f5e-a028-ac0f719870ef" /><img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/3faf2e9f-2c99-490c-99b0-f0a09084844c" />
+<img width="724" height="793" alt="Screenshot 2025-08-09 152840" src="https://github.com/user-attachments/assets/82467f31-4862-467b-a708-3e864ea51b66" />
+
+Registration Form 3:
+<img width="1323" height="880" alt="image" src="https://github.com/user-attachments/assets/720c26c1-7990-4382-a835-90bc11a6d5bf" />
+
 Registration Form 2:
-<img width="1919" height="1079" alt="Screenshot 2025-08-16 225314" src="https://github.com/user-attachments/assets/4874573a-00c9-454a-8030-7039946be3e0" />
-Converted to upper case:
-<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/85e9d32a-b2dc-4ae5-94d5-2c474723c469" />
+<img width="745" height="461" alt="SS of the work" src="https://github.com/user-attachments/assets/3ee4a92c-f232-4fc1-865f-792fa44f1db8" />
+
+Converted to upper case while typing:
+<img width="562" height="261" alt="image" src="https://github.com/user-attachments/assets/36b37f40-6e6f-48da-82aa-430695081694" />
+
+
